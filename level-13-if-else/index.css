@@ -1,0 +1,10 @@
+/*Basis css*/
+
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
